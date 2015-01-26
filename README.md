@@ -2,6 +2,11 @@
 
 Easily handle JSON in RSpec and Cucumber
 
+## NOTE ON FORK
+
+This project has been forked to be able to match order indifferent arrays.
+Use original repo if the following PR is merged: https://github.com/collectiveidea/json_spec/pull/83
+
 [![Gem Version](https://img.shields.io/gem/v/json_spec.svg?style=flat)](http://rubygems.org/gems/json_spec)
 [![Build Status](https://img.shields.io/travis/collectiveidea/json_spec/master.svg?style=flat)](https://travis-ci.org/collectiveidea/json_spec)
 [![Code Climate](https://img.shields.io/codeclimate/github/collectiveidea/json_spec.svg?style=flat)](https://codeclimate.com/github/collectiveidea/json_spec)
